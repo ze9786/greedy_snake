@@ -14,17 +14,6 @@ This is a simple Snake game built using Python and the Tkinter library. The play
 - Python 3.x
 - Tkinter (comes pre-installed with standard Python distributions)
 
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/snake-game.git
-   cd snake-game
-   ```
-2. Run the game:
-   ```bash
-   python snake_game.py
-   ```
-
 ## How to Play
 - Use the arrow keys to move the snake.
 - Eat the red food to grow longer.
