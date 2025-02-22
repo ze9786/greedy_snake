@@ -4,7 +4,7 @@ import random
 # 遊戲設定
 WIDTH = 500
 HEIGHT = 500
-GRID_SIZE = 20
+GRID_SIZE = 10
 
 
 class SnakeGame:
